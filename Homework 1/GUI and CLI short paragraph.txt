@@ -1,0 +1,17 @@
+﻿Dylan Nelson
+
+
+
+
+GUIs and CLIs 
+
+
+
+
+From what I have researched about the two, they have a few differences. A GUI, or Graphical User Interface, mainly consists of interactive graphic elements that can allow users to individually interact with a system. (Think something like a folder, a menu, or some sort of button on screen). GUIs allow for people to interact with the system with just a keyboard and mouse. Another thing to note, is that GUIs are usually more user and amateur friendly, at least compared to CLIs.
+
+
+A CLI, or Command Line Interface, is similar to a GUI, in which it allows users to interact with a system. However, CLIs are different because they require commands to be written or typed out into a console/computer’s terminal, in order to function. CLIs are much less accessible than GUIs, as well as being only for the more precise and well-trained in the art of coding. 
+
+
+I don’t know if this is enough information, but it was the most I could find.
